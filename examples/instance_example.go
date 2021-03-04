@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"reflect"
 
-	"bou.ke/monkey"
+	"github.com/jcfug8/monkey"
 )
 
 func main() {
